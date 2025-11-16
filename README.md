@@ -1,4 +1,4 @@
-# PayStream — Arc AI Agent for USDC Streams
+# PayStream MoniAgent for Entrepreneurs
 
 ![PayStream cover](assets/cover.svg)
 
